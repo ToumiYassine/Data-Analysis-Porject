@@ -10,4 +10,5 @@ Ce projet vise à automatiser la collecte de données en ligne à l’aide du we
 
 -Visualisation avec Power BI : Intégration des données dans Power BI pour créer des tableaux de bord interactifs et dynamiques (Dashboard.pbix). L'objectif est de fournir des insights clairs et des KPI visuels qui aident à la prise de décision. Les visualisations incluent des lines charts ,des metrices et des filtres  qui permettent aux utilisateurs finaux d’explorer les données via des filtres.
 
-![output](https://github.com/ToumiYassine/Data-Analysis-Porject/issues/1#issue-2562717079)
+![image](https://github.com/user-attachments/assets/385c1c8a-84fe-4f9e-a6b5-ed65285fb5aa)
+
