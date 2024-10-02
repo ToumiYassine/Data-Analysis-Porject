@@ -9,3 +9,5 @@ Ce projet vise à automatiser la collecte de données en ligne à l’aide du we
 -Stockage des données : Les données nettoyées sont ensuite stockées dans un fichier excel "Output.xlsx pour une utilisation future dans des visualisations.
 
 -Visualisation avec Power BI : Intégration des données dans Power BI pour créer des tableaux de bord interactifs et dynamiques (Dashboard.pbix). L'objectif est de fournir des insights clairs et des KPI visuels qui aident à la prise de décision. Les visualisations incluent des lines charts ,des metrices et des filtres  qui permettent aux utilisateurs finaux d’explorer les données via des filtres.
+
+https://github.com/ToumiYassine/Data-Analysis-Porject/issues/1#issue-2562717079
